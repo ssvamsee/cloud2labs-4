@@ -26,7 +26,7 @@ function Projects() {
           </Col>
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath="Assets/Projects/chatify.png"
+              imgPath="Assets/Projects/codeEditor.png"
               title="OPAL"
               description="The Chat Application which connects users among the world and unites through audio and video call along with text messages"
               demoLink="https://o-pal-dev.onpassive.com/"
